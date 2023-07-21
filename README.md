@@ -1,6 +1,4 @@
 ![](/img/ariondev.svg)
-
-
 <!--   my-icons -->
 <p align="center">
     <a href="https://github.com/David/Favard"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
@@ -26,8 +24,6 @@
 **Github profile under development
 please come back to me
 I would be happy to see you again** 👋
-
-
 ![](/img/inverse.svg)
 
 <!-- <p align="center"> 
