@@ -1,4 +1,3 @@
-![](/img/H33.jpg)
 ![](/img/ariondev.svg)
 <p align="center"> <!--   my-icons -->
     <a href="https://github.com/David/Favard"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
