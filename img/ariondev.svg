@@ -6,6 +6,27 @@
             font-weight: 700;
             font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;
         }
+
+        @font-face {
+            font-family:"nordic"
+            url(/Font/nordic)
+
+        }
+
+        .text2 {
+            
+            font-size: 25px;
+            font-weight: 700;
+            font-family: nordic,-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;
+        }
+
+        .text3 {
+            
+            font-size: 15px;
+            font-weight: 700;
+            font-family: nordic,-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;
+        }
+
         .desc {
             font-size: 20px;
             font-weight: 500;
@@ -39,11 +60,25 @@
     
     </g>
 
-<!-- Texte avec effet de flou gaussien pour simuler le 3D -->
+<!-- Texte avec effet de flou gaussien 3D -->
         <text text-anchor="middle" alignment-baseline="middle" x="50%" y="30%" class="text" filter="url(#textBlur)">A R I O N | D E V</text>
     
 <!-- Texte 3D simulé (ombre décalée) -->
         <text text-anchor="middle" alignment-baseline="middle" x="50%" y="31%" class="text" fill="#666" style="opacity: 0.5;">A R I O N | D E V</text>
+
+<!-- Texte2 avec effet de flou gaussien 3D -->
+        <text text-anchor="right" alignment-baseline="right" x="18%" y="60%" class="text2" filter="url(#textBlur)">F R O N T | E N D</text>
+    
+<!-- Texte2 3D simulé (ombre décalée) -->
+        <text text-anchor="right" alignment-baseline="right" x="18%" y="61%" class="text2" fill="#666" style="opacity: 0.5;">F R O N T | E N D</text>
+
+<!-- Texte2 avec effet de flou gaussien 3D -->
+        <text text-anchor="left" alignment-baseline="left" x="57%" y="60%" class="text3" filter="url(#textBlur)">Cloud</text>
+    
+<!-- Texte2 3D simulé (ombre décalée) -->
+        <text text-anchor="left" alignment-baseline="left" x="57%" y="61%" class="text3" fill="#666" style="opacity: 0.5;">Cloud</text>
+
+
 
 </svg>
         

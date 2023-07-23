@@ -6,6 +6,15 @@
             font-weight: 700;
             font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;
         }
+
+        .text2 {
+            font-size: 30px;
+            font-weight: 700;
+            font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;
+        }
+
+
+
         .desc {
             font-size: 20px;
             font-weight: 500;
@@ -43,6 +52,12 @@
     
 <!-- Texte 3D simulé (ombre décalée) -->
     <text text-anchor="middle" alignment-baseline="middle" x="50%" y="81%" class="text" fill="#666" style="opacity: 0.5;">FRONT | END</text>
+
+    <!-- Texte2 avec effet de flou gaussien 3D -->
+        <text text-anchor="left" alignment-baseline="left" x="59.5%" y="60%" class="text2" filter="url(#textBlur)">A R I O N | D E V</text>
+    
+<!-- Texte2 3D simulé (ombre décalée) -->
+        <text text-anchor="left" alignment-baseline="left" x="59.5%" y="61%" class="text2" fill="#666" style="opacity: 0.5;">A R I O N | D E V</text>
 
 </svg>
 
