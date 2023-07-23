@@ -27,7 +27,7 @@ please come back to me**
 
 [Linkedin](https://www.linkedin.com/in/david-favard/ "Link to linkedin website")
                        
-[SiteWeb_Under_Construction](https://github.com/DavidFavard/ "Link to website") 
+[SiteWeb_Under_Construction](https://davidfavard.github.io/)"Link to website") 
 
 <!-- ### Hi there
 **Github profile under development
