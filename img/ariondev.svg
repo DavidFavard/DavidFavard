@@ -73,10 +73,10 @@
         <text text-anchor="right" alignment-baseline="right" x="18%" y="61%" class="text2" fill="#666" style="opacity: 0.5;">F R O N T | E N D</text>
 
 <!-- Texte2 avec effet de flou gaussien 3D -->
-        <text text-anchor="left" alignment-baseline="left" x="57%" y="60%" class="text3" filter="url(#textBlur)">Cloud</text>
+        <text text-anchor="left" alignment-baseline="left" x="57%" y="60%" class="text3" filter="url(#textBlur)">WEB DESIGNER</text>
     
 <!-- Texte2 3D simulé (ombre décalée) -->
-        <text text-anchor="left" alignment-baseline="left" x="57%" y="61%" class="text3" fill="#666" style="opacity: 0.5;">Cloud</text>
+        <text text-anchor="left" alignment-baseline="left" x="57%" y="61%" class="text3" fill="#666" style="opacity: 0.5;">WEB DESIGNER</text>
 
 
 
