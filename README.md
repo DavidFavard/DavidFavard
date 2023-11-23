@@ -25,7 +25,7 @@ please come back to me**
 
 <p align="center">
 <a href="https://htmx.org" target="_blank" rel="noreferrer">
-  <img src="https://htmx.org/" alt="htmx" width="40" height="40"/>
+  <img src="[https://htmx.org/](https://ariondev.fr/wp-content/uploads/2023/11/htmx.jpg)" alt="htmx" width="40" height="40"/>
 </a> 
 <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>   
